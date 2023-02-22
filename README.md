@@ -1,3 +1,3 @@
 # todo-project
 
-![wireframe](wireframe2.jpg)
+![wireframe](assist/asswireframe2.jpg)
